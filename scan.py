@@ -7,7 +7,7 @@ from win32api import GetSystemMetrics
 name = 'image'
 print('Podaj Ilosc stron')
 N = int(input())
-region = {'top': int(0.002*GetSystemMetrics(1)), 'left': int(0.323*GetSystemMetrics(0)), 'width': int(0.353*GetSystemMetrics(0)), 'height': int(0.963*GetSystemMetrics(1))}
+region = {'top': int(0.004*GetSystemMetrics(1)), 'left': int(0.32*GetSystemMetrics(0)), 'width': int(0.36*GetSystemMetrics(0)), 'height': int(0.97*GetSystemMetrics(1))}
 
 for i in range(5,0,-1):
     print(i)
