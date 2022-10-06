@@ -10,3 +10,7 @@
 1. Enter the number of pages
 1. Enter a name
 1. Done! You got yourself a brand-new PDF!
+
+
+
+W przeglądarkach Brave i Firefox występowały problemy z działaniem, w Vivaldi program działał prawidłowo.
